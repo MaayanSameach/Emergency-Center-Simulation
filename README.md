@@ -1,8 +1,4 @@
 
----
-
-### 📁 **Emergency Center Simulation – `README.md`**
-```markdown
 # Emergency Center Simulation
 
 A real-time emergency communication platform built using a client-server architecture. The system allows users to subscribe to emergency channels (fire, police, medical), send alerts, and receive automated summaries.
